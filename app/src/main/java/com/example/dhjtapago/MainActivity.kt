@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
+
         /**
          * inicializa o BottomNavigation setando o nav controler que referencia o
          * fragment principal
