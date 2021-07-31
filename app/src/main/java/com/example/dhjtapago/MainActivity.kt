@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //teste
 
         /**
          * inicializa o BottomNavigation setando o nav controler que referencia o
